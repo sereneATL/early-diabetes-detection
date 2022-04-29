@@ -12,3 +12,5 @@ Data source (UCI Repository): https://archive.ics.uci.edu/ml/machine-learning-da
 - Part 1: Data collection and cleaning
 - Part 2: Data visualisation and statistics
 - Part 3: Machine learning model training
+
+The problem statement is a classification model, whereby we predict the presence of diabetes given the symptoms of the patient
