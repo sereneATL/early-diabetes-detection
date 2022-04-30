@@ -5,12 +5,21 @@
 ## This project aims to predict whether an individual is at risk of getting diabetes by using a machine learning model
 <br>
 
-Data source (UCI Repository): https://archive.ics.uci.edu/ml/machine-learning-databases/00529/
+Data source (diabetes CSV file from UCI Repository): https://archive.ics.uci.edu/ml/machine-learning-databases/00529/
 
 ### Parts
 
 - Part 1: Data collection and cleaning
 - Part 2: Data visualisation and statistics
-- Part 3: Machine learning model training
+- Part 3: Machine learning model training, prediction and feature importance analysis
 
-The problem statement is a classification model, whereby we predict the presence of diabetes given the symptoms of the patient
+The problem statement is a classification model, whereby we predict the presence of diabetes given the symptoms of the patient.
+
+Language: Python3
+Libraries: 
+- pandas
+- seaborn
+- Matplotlib
+- scikit-learn
+- scipy
+- statsmodels
