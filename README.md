@@ -12,13 +12,18 @@ Data source (diabetes CSV file from UCI Repository): https://archive.ics.uci.edu
 - Part 1: Data collection and cleaning
 - Part 2: Data visualisation and statistics
 - Part 3: Machine learning model training, prediction and feature importance analysis
+
 <br>
 The problem statement is a classification model, whereby we predict the presence of diabetes given the symptoms of the patient.
 <br>
 <br>
-**Language** : Python3
+
+### Language / Tools
+- Python3
+- Jupyter Notebook
 <br>
-**Libraries** : 
+
+### Libraries
 - pandas
 - seaborn
 - Matplotlib
