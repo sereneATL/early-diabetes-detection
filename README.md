@@ -21,7 +21,6 @@ The problem statement is a classification model, whereby we predict the presence
 ### Language / Tools
 - Python3
 - Jupyter Notebook
-<br>
 
 ### Libraries
 - pandas
