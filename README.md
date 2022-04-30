@@ -16,9 +16,9 @@ Data source (diabetes CSV file from UCI Repository): https://archive.ics.uci.edu
 The problem statement is a classification model, whereby we predict the presence of diabetes given the symptoms of the patient.
 <br>
 <br>
-**Language**: Python3
+**Language** : Python3
 <br>
-**Libraries**: 
+**Libraries** : 
 - pandas
 - seaborn
 - Matplotlib
